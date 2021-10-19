@@ -1,0 +1,27 @@
+.container{
+    border:3px solid yellow;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    border:1px solid black;
+    padding: 10px;
+     flex-direction: row;
+    justify-content: space-around;
+}
+.container button{
+    padding: 10px;
+    color: white;
+    background-color: yellow;
+    border :1px solid white;
+}
+.flex img{
+    width:10%;
+    height: 15px;
+    padding: 10px;
+    margin: 20px;
+box-shadow:black;
+}
